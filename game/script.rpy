@@ -396,6 +396,7 @@ return
 
 label the_end
 
-"Heyyy I am Himanshu And I am learning Renpy. I made this game hope you liked it thanks"
+"Heyyy This Is Himanshu I hope you really liked this. TBH this is my second game with Ren'py"
+
 
 
