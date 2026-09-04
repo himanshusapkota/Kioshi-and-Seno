@@ -297,8 +297,7 @@ label seno_accept:
 
     "The Game Ends Here!! Both Of them go to home"
 
-    jump the_end
-
+  
    
 
 
@@ -351,7 +350,8 @@ label seno_reject:
 
     seno "Please don't be sad."
 
-    kioshi "I'm not!" kioshi "I'm totally fine!"
+    kioshi"I'm not!"
+    kioshi "I'm totally fine!"
 
     seno "Kioshi..." 
 
@@ -370,7 +370,8 @@ label seno_reject:
 
     seno "Hehe... I'm sorry."
 
-    kioshi "It's fine..." kioshi "I'll get over it."
+    kioshi "It's fine..." 
+    kioshi "I'll get over it."
 
     seno "I know you will."
 
@@ -389,19 +390,12 @@ label seno_reject:
 
     "This was the story hope you liked"
 
-    jump the_end
+   
 
 
 return
 
-label the_end
-
-"Heyyy This Is Himanshu I hope you really liked this. TBH this is my second game with Ren'py"
-"I will be making more game with renpy in fututre."
-"Hope you enjoyed Playing this game."
-"Suggest me some more stories maybe in my email or social media"
-"I will be making more game"
-"This game is for YSWS_REDREAM"
+l
 
 
 
