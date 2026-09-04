@@ -397,6 +397,8 @@ return
 label the_end
 
 "Heyyy This Is Himanshu I hope you really liked this. TBH this is my second game with Ren'py"
+"I will be making more game with renpy in fututre."
+"Hope you enjoyed Playing this game."
 
 
 
