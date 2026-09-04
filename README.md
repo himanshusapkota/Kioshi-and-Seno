@@ -1,3 +1,4 @@
+
 # Kioshi and Seno
 
 A small visual novel made with Ren'Py.
@@ -36,4 +37,8 @@ Seno is a school girl and the other main character. Her conversations with Kiosh
 3. Open the project in the Ren'Py Launcher.
 4. Select the project.
 5. Click **Launch Project**.
+
+---
+## Note
+The assets Used in this game doesnot belong to me. I got it from itch.io 
 
